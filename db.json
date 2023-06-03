@@ -23,10 +23,7 @@
                     "chapters": ["chapter1", "chapter 2"],
                     "num": 10
                 }
-            ],
-            "start_test": {
-                "message": "success"
-            }
+            ]
         },
         {
             "id": 3,
@@ -52,6 +49,11 @@
                     "num": 10
                 }
             ],
+            "start_test": {
+                "message": "success"
+            }
+        },
+        {
             "start_test": {
                 "message": "success"
             }
